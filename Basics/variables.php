@@ -7,17 +7,13 @@ A variable name can only contain alpha-numeric characters and underscores (A-z, 
 Variable names are case-sensitive ($age and $AGE are two different variables) -->
 
 
-<!-- PHP supports the following data types: -->
+<!-- PHP has three different variable scopes: -->
 
 <!-- 
-1.String
-2.Integer
-3.Float (floating point numbers - also called double)
-4.Boolean
-5.Array
-6.Object
-7.NULL
-8.Resource -->
+    1.local
+    2.global
+    3.static 
+-->
 <?php 
     $num1 = 10;
     $num3 = 10;
@@ -33,5 +29,4 @@ Variable names are case-sensitive ($age and $AGE are two different variables) --
     var_dump(array(1,2,3));
     echo '<br/>';
     var_dump(null);
-
 ?>
