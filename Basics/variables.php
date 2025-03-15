@@ -29,4 +29,13 @@ Variable names are case-sensitive ($age and $AGE are two different variables) --
     var_dump(array(1,2,3));
     echo '<br/>';
     var_dump(null);
+    echo '<br/>';
+    echo '<br/>';
+    // Constants in PHP
+    define('PI', 3.14);
+    echo PI;
+    
+    const num = 12345;
+    const num = 999;
+    echo num
 ?>
