@@ -12,6 +12,10 @@
     // $car = array("brand"=>"Ford", "model"=>"Mustang", "year"=>1964);
     // echo $car['year'];
 
+    // $newArr = [1,2,3,4,5,6];
+    // print_r($newArr);
+
+    
     $arr = array(1,2,3,4,5,6);
     // array_push($arr, 7);
     // array_pop($arr);
