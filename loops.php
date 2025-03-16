@@ -1,6 +1,7 @@
 <?php
-    // ======= for loop =======
-
+ /*
+     ======= for loop =======
+*/
 
     // for ($i = 1 ; $i <= 10; $i ++ ){
     //     echo $i;
@@ -29,7 +30,37 @@
     //     echo "<br/>";
     // }
 
-    //======= while loop =====
+
+/*
+    ======= while loop =====
+*/
+
+    // $val=1;
+    // while($val < 10 ){
+    //     echo "Hello World <br/>";
+    //     $val++;
+    // }
+
+/*
+    ====== do while loop ======== 
+*/
+
+    // $num=false;
+    // do{
+    //     echo "Hello World <br/>";
+    // }
+    // while($num);
 
 
+/*
+    ====== Go To State loop ======== 
+*/
+    // $val=1;
+    // echo "start <br/>";
+    // if($val == 1){
+    //    goto jump;
+    // }
+    // echo "middle <br/>";
+    // jump:
+    // echo "end <br/>";
 ?>
