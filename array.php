@@ -15,9 +15,14 @@
     // $newArr = [1,2,3,4,5,6];
     // print_r($newArr);
 
-    
-    $arr = array(1,2,3,4,5,6);
+
+    // $arr = array(1,2,3,4,5,6);
+    // echo count($arr);
     // array_push($arr, 7);
     // array_pop($arr);
     // print_r ($arr);
+
+
+    // $mdArr = ["10"=>"one", "20"=>[20,21,22], "30"=>"three"];
+    // echo $mdArr['20'][1];
 ?>
