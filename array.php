@@ -16,7 +16,7 @@
     // print_r($newArr);
 
 
-    $arr = array(1,2,3,4,5,6);
+    // $arr = array(1,2,3,4,5,6);
     // echo count($arr);
     // array_push($arr, 7);
     // array_pop($arr);
@@ -24,12 +24,19 @@
     // $arr[] =999;
     // array_push($arr, 999,3445,667775,788888);
     // array_splice($arr, -1, 1);
-    print_r ($arr);
+    // print_r ($arr);
 
 
-    $mdArr = ["10"=>"one", "20"=>[20,21,22], "30"=>"three"];
+    // $mdArr = ["10"=>"one", "20"=>[20,21,22], "30"=>"three"];
     // echo $mdArr['20'][1];
     // $mdArr["20"][] = 23;
     // $mdArr+=["40"=>"four", "50"=>"five"];
     // print_r ($mdArr);
+    // print_r ($mdArr);
+
+    $arr = [2,3,5,1,4,5,7,4,5,6,7,8];
+    // sort($arr);
+    // rsort($arr);
+    // asort($arr);
+    print_r($arr);
 ?>
