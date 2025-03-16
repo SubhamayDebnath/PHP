@@ -12,4 +12,7 @@
     // $myString = "PHP String Function";
     // $result = explode(' ', $myString);
     // print_r($result);
+    $x = "Hello World!";
+    // echo substr($x, 0, 5);
+    // echo substr($x, -6,5);
 ?>
