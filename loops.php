@@ -63,4 +63,16 @@
     // echo "middle <br/>";
     // jump:
     // echo "end <br/>";
+/*
+    ====== FOREACH State loop ======== 
+*/
+    // $arr = array(1,2,3,4,5);
+    // foreach($arr as $value){
+    //     echo $value."<br/>";
+    // }
+
+    // $arr = array("a"=>"1","b"=>"2","c"=>"3");
+    // foreach($arr as $key => $value){
+    //     echo $key."-".$value."<br/>";
+    // }
 ?>
